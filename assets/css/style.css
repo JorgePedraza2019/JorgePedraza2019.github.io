@@ -2910,24 +2910,24 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #9926f0;
-  border-color: #9926f0;
+  background-color: #389ef5;
+  border-color: #389ef5;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #8220cc;
-  border-color: #7a1ec0;
+  background-color: rgba(22, 10, 194, 0.829);
+  border-color: rgba(22, 10, 194, 0.829);
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
-  background-color: #8220cc;
-  border-color: #7a1ec0;
+  background-color: #389ef5;
+  border-color: #389ef5;
   box-shadow: 0 0 0 0.25rem rgba(168, 71, 242, 0.5);
 }
 .btn-check:checked + .btn-primary, .btn-check:active + .btn-primary, .btn-primary:active, .btn-primary.active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #7a1ec0;
-  border-color: #731db4;
+  background-color: #389ef5;
+  border-color: #389ef5;
 }
 .btn-check:checked + .btn-primary:focus, .btn-check:active + .btn-primary:focus, .btn-primary:active:focus, .btn-primary.active:focus, .show > .btn-primary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.25rem rgba(168, 71, 242, 0.5);
@@ -7180,6 +7180,18 @@ textarea.form-control-lg {
   font-weight: 300 !important;
 }
 
+.pill {
+  background-color: #e8e8e8;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  border-radius: 25px;
+}
+
 .fw-lighter {
   font-weight: lighter !important;
 }
@@ -10767,7 +10779,7 @@ textarea.form-control-lg {
 }
 .btn-rounded span {
   position: absolute;
-  background-color: #9926f0;
+  background-color: #389ef5;
   width: 2.5rem;
   height: 2.5rem;
   top: 50%;
@@ -10781,7 +10793,8 @@ textarea.form-control-lg {
   line-height: 2.5rem;
 }
 .btn-rounded:hover {
-  background: linear-gradient(to right, rgba(153, 38, 240, 0.95), rgba(209, 34, 227, 0.95));
+  /* background: linear-gradient(to right, rgba(153, 38, 240, 0.95), rgba(209, 34, 227, 0.95)); */
+  background: linear-gradient(to right, rgba(45, 73, 117, 0.95), rgba(54, 128, 192, 0.95));
   color: #fff;
 }
 .btn-rounded:hover span {
@@ -10817,7 +10830,7 @@ textarea.form-control-lg {
   height: 0.1rem;
   display: block;
   margin: 0 auto;
-  background-color: #9926f0;
+  background-color: rgb(48, 115, 240);
 }
 
 .heading-line::after {
@@ -10828,7 +10841,7 @@ textarea.form-control-lg {
   display: block;
   margin: 0 auto;
   margin-bottom: 1rem;
-  background-color: #9926f0;
+  background-color: rgb(48, 115, 240);
 }
 
 .display-3 {
@@ -10862,11 +10875,11 @@ textarea.form-control-lg {
 }
 
 .gradient {
-  background: linear-gradient(to right, rgba(153, 38, 240, 0.95), rgba(209, 34, 227, 0.95));
+  background: linear-gradient(to right, rgba(45, 73, 117, 0.95), rgba(54, 128, 192, 0.95));
 }
 
 .menu {
-  background: linear-gradient(to right, rgba(153, 38, 240, 0.95), rgba(209, 34, 227, 0.95));
+  background: linear-gradient(to right, rgba(45, 73, 117, 0.95), rgba(54, 128, 192, 0.95));
 }
 .menu li {
   padding: 0 0.7rem;
@@ -10882,7 +10895,7 @@ textarea.form-control-lg {
 }
 
 .intro-section {
-  background: linear-gradient(to right, rgba(153, 38, 240, 0.95), rgba(209, 34, 227, 0.95));
+  background: linear-gradient(to right, rgba(45, 73, 117, 0.95), rgba(54, 128, 192, 0.95));
   padding: 10rem 0 0 0;
   width: 100%;
   height: 100%;
@@ -11024,14 +11037,14 @@ textarea.form-control-lg {
   height: 18.5rem;
   overflow: hidden;
   margin-bottom: 1.2rem;
-  border-top: 0.5rem solid #c685f7;
+  border-top: 0.5rem solid rgba(48, 115, 240, 0.75);
 }
 .portfolio-box img {
   width: 100%;
   height: 100%;
 }
 .portfolio-box .portfolio-info {
-  background-color: rgba(153, 38, 240, 0.75);
+  background-color: rgba(48, 115, 240, 0.75);
   width: 100%;
   height: 100%;
   position: absolute;
@@ -11112,13 +11125,13 @@ textarea.form-control-lg {
   position: relative;
 }
 .contact-box__icon {
-  width: 2rem;
-  stroke: #9926f0;
-  padding-top: 0.5rem;
+  margin-top: '-100px';
+  stroke: white;
 }
 @media (min-width: 576px) {
   .contact-box__icon {
-    width: 4rem;
+    margin-top: '-100px';
+    width: 3.3rem;
   }
 }
 .contact-box__info {
@@ -11150,16 +11163,16 @@ textarea.form-control-lg {
   color: #fff;
 }
 .footer-sm a i {
-  font-size: 1rem;
+  font-size: 3rem;
   margin-left: 1rem;
 }
 @media (min-width: 576px) {
   .footer-sm a i {
-    font-size: 1.6rem;
+    font-size: 3rem;
   }
 }
 .footer-sm a:hover {
-  color: #9926f0;
+  color: #389ef5;
 }
 
 .campany-list {
