@@ -4,7 +4,7 @@
 This project allows you to show the acquired knowledge of JavaScript, HTML and CSS to make a portfolio with the projects seen within the professional certificate in coding from MIT XPRO.
 
 ## How to Run:
-To run the project, it must first be downloaded and the index.html file must be opened with the browser.
+To run the project locally, it must first be downloaded and the index.html file must be opened with the browser. Otherwise, to run the project directly you can access the following link: https://jorgepedraza2019.github.io/
 
 ## Roadmap of future improvements:
 The future improvements to apply in this job is to add more projects to increase the portfolio, a new tab would also be added where the resume is displayed and a referral section.
