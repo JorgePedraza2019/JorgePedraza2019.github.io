@@ -11175,6 +11175,13 @@ textarea.form-control-lg {
   color: #389ef5;
 }
 
+.contact-sm a {
+  color: #389ef5;
+}
+.contact-sm a:hover {
+  color: gray;
+}
+
 .campany-list {
   display: block;
   list-style-type: none;
