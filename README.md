@@ -9,6 +9,11 @@ To run the project locally, it must first be downloaded and the index.html file 
 ## Roadmap of future improvements:
 The future improvements to apply in this job is to add more projects to increase the portfolio, a new tab would also be added where the resume is displayed and a referral section.
 
+## Author information:
+This site was built from a template created by Muriungi Patrick.
+Github: https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template
+YouTube: https://www.youtube.com/watch?v=iJKCj8uAHz8
+
 ## License information:
 MIT License
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
