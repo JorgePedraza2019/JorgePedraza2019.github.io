@@ -1,15 +1,15 @@
 # Project title: Jorge Pedraza GitHub Pages Portfolio
 
-## Description of Project
+## Description of Project:
 This project allows you to show the acquired knowledge of JavaScript, HTML and CSS to make a portfolio with the projects seen within the professional certificate in coding from MIT XPRO.
 
 ## How to Run:
 To run the project, it must first be downloaded and the index.html file must be opened with the browser.
 
-## Roadmap of future improvements
+## Roadmap of future improvements:
 The future improvements to apply in this job is to add more projects to increase the portfolio, a new tab would also be added where the resume is displayed and a referral section.
 
-## License information
+## License information:
 MIT License
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
