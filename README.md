@@ -11,8 +11,8 @@ The future improvements to apply in this job is to add more projects to increase
 
 ## Author information:
 This site was built from a template created by Muriungi Patrick.
-Github: https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template
-YouTube: https://www.youtube.com/watch?v=iJKCj8uAHz8
+####### Github: https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template
+####### YouTube: https://www.youtube.com/watch?v=iJKCj8uAHz8
 
 ## License information:
 MIT License
